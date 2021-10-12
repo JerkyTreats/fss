@@ -15,7 +15,9 @@ Map Maslow's Hierarchy of Needs to a Heirarchical Task Network
 
 - Set up Project
   - ~~Unity~~
-    - TODO: Push to Git
+    - ~~TODO: Push to Git~~
+    - TODO: Think of an asset control mechanism for large files
+      - `git lfs` has banned itself for being a fucked thing
   - ~~Admin CMS~~
     - https://github.com/JerkyTreats/fss-admin
     - ~~Setup `strapi` headless CMS in `fss-admin` repo~~
